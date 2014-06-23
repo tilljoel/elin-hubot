@@ -1,1 +1,1 @@
-web: bin/hubot --adapter hipchat -n Elin
+web: bin/hubot --adapter slack -n Elin
